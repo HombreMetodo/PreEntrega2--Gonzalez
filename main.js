@@ -13,10 +13,6 @@ while (contrasenia == "") {
   contrasenia = prompt("Ingrese la contraseña");
 }
 
-if (usuario == "Sabrina" || usuario == "sabrina") {
-  alert("Binvenida Sabrina, te extrañamos!. ");
-}
-
 // PRODUCTOS:
 
 const catalogoCompleto = [
